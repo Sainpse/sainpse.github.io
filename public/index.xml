@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sainpse Institute.</title>
+    <link>localhost/</link>
+    <description>Recent content on Sainpse Institute.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>localhost/about/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/about/</guid>
+      <description>Description of my work a exprience in software development operating systems, development environments, languages, databases I have worked on a variety of software projects mostly in the financial industry
+This includes:
+Realtime Applications (e.g a system that scores the users spending pattern and credit history in order to pre-approve and offer them an increase in their credit limit in real time)
+The Technology Stack Used: • Used Visual studio code on the Windows Subsystem for Linux for development • Database postgress &amp;amp; MongoDB • Apache Kafka and Java for real time event streaming and processing • Python for credit model scoring with (Tensorflow) • Deployed on OpenShift • Communication between different components was done via the Restful API • Used Git for version control • Used Jira for project management • Used Confluence for documentation • Used Bamboo for CI/CD • Used SonarQube for code quality • Used Grafana for monitoring • Docker for containerizartion Full Stack Web Development.</description>
+    </item>
+    
+  </channel>
+</rss>

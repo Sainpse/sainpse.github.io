@@ -1,0 +1,80 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 20px;
+  // Default
+  background: $light-background-header;
+
+  @media (prefers-color-scheme: dark) {
+    background: $dark-background-header;
+  }
+
+  @media (prefers-color-scheme: light) {
+    background: $light-background-header;
+  }
+
+  [data-theme=dark] & {
+    background: $dark-background-header;
+  }
+
+  [data-theme=light] & {
+    background: $light-background-header;
+  }
+
+  &__right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    @media #{$media-size-phone} {
+      flex-direction: row-reverse;
+    }
+  }
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 760px;
+    max-width: 100%;
+  }
+}
+
+.SainpseSubtitle {
+  color: #049374 !important;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  padding: 2%;
+  margin: 5%;
+  margin-top: 30px;
+  max-width: 100%;
+  background-color: rgba(245, 246, 250, 1.0);
+  font-size: 84%;
+  border-radius: 10px;
+  background-color: #242424 !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+  color: rgb(192, 192, 192);
+}
+
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.theme-toggler {
+  fill: currentColor;
+}
+
+.not-selectable {
+  user-select: none;
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+}
