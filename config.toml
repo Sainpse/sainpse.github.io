@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "sainpse.github.io"
 title        = "The Sainpse Institute"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
