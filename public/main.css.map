@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Marc/Documents/Workspace/SainpseHugo/sainpse",
+	"sourceRoot": "C:/Users/Marc/OneDrive/Documents/Workspace/SainpseHugo/sainpse.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
