@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/about/about/</loc>
+    <loc>sainpse.github.io/commentary/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>sainpse.github.io/commentary/ai/commentary/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>sainpse.github.io/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>sainpse.github.io/commentary/computation/commentary/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>sainpse.github.io/blog/</loc>
   </url><url>
-    <loc>localhost/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>sainpse.github.io/series/</loc>
   </url><url>
-    <loc>localhost/blog/</loc>
-  </url><url>
-    <loc>localhost/series/</loc>
-  </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>sainpse.github.io/tags/</loc>
   </url>
 </urlset>
