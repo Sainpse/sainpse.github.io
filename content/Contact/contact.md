@@ -12,3 +12,4 @@ aliases = ["AI","brain","knowledge", "history"]
 |---------------|----------------------------------------|---------|
 | Linkedin | [Marcus Madumo Profile](https://www.linkedin.com/in/marcusmadumo/) | High |
 | Instagram| [username Marcus_Madumo](https://www.instagram.com/marcus_madumo/) | Medium |
+| Github | [ Open source code ](https://github.com/Sainpse) | Medium |
